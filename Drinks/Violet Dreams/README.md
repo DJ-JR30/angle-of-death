@@ -2,10 +2,17 @@
 
 `Creator: From YouTube Shorts`
 
-Alcohols: Vanilla Rum
 
-Milks: Coconut Milk
+# Ingredients
 
-Syrups: Blueberry syrup
+Alcohols: 
+`Vanilla Rum`
 
-Extras: Cinnamon powdered sugar
+Milks: 
+`Coconut Milk`
+
+Syrups: 
+`Blueberry syrup`
+
+Extras: 
+`Cinnamon powdered sugar`
