@@ -1,7 +1,8 @@
 {
   "DrinkInfo": {
     "Name": "Violet Dreams",
-    "Creator": "From YouTube shorts"
+    "Creator": "From YouTube shorts",
+    "Video": "https://youtu.be/XLDlEaRkK2c"
   },
   "Instructions": {
     "First": "Get a cup",
