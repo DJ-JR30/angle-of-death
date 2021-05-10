@@ -4,7 +4,7 @@
     "Type": "Drink/Food"
   },
   "Ingredients": [
-    { ""First": "Get a cup"},
+    {"First": "Get a cup"},
     {"Second": "Add Vanilla rum, fill the cup up"},
     {"Third": "Add hot coconut milk"},
     {"Fourth": "Add Runny Blueberry syrup"},
