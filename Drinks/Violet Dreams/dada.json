@@ -1,10 +1,10 @@
 {
   "ItemInfo": {
     "Name": "Violet Dreams",
-    "Type": "Drink"
+    "Type": "Drink",
+    {"NumberOfSteps": "5"}
   },
   "Steps": [
-    {"NumberOfSteps": 5}
     {"First": "Get a cup"},
     {"Second": "Add Vanilla rum, fill the cup up"},
     {"Third": "Add hot coconut milk"},
