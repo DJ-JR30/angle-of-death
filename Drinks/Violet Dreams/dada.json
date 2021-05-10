@@ -11,5 +11,7 @@
     {"Fourth": "Add Runny Blueberry syrup"},
     {"Fifth": "Add cinnamon powdered sugar"}
   ],
-  "Ingredients": "AL"
+  "Ingredients": {
+    "Alcohols": ['Vanilla Rum']
+  }
 }
