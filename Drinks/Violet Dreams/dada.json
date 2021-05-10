@@ -12,6 +12,9 @@
     {"Fifth": "Add cinnamon powdered sugar"}
   ],
   "Ingredients": {
-    "Alcohols": ["Vanilla Rum"]
+    "Alcohols": ["Vanilla Rum"],
+    "Milks": ["Coconut Milk"],
+    "Syrups": ["Blueberry syrup"],
+    "Extras": ["Cinnamon powdered sugar"]
   }
 }
