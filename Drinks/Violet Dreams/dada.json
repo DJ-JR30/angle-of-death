@@ -12,6 +12,6 @@
     {"Fifth": "Add cinnamon powdered sugar"}
   ],
   "Ingredients": {
-    "Alcohols": "Vanilla Rum"
+    "Alcohols": ["Vanilla Rum"]
   }
 }
