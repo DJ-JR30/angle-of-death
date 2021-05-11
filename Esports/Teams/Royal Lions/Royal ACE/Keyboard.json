@@ -7,9 +7,9 @@
     "Version": "Pro - 120x Kailh Purples",
     "Stats": {
       "Type": "Tactile switches",
-      "Actuation Force": "50 grams",
-      "Actuation Point": "1.7 mm",
-      "Total Travel Distance": "3.6 mm",
+      "ActuationForce": "50 grams",
+      "ActuationPoint": "1.7 mm",
+      "TotalTravelDistance": "3.6 mm",
       "Compatibility": "Cherry MX keycap"
     }
   }
