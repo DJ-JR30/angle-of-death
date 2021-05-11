@@ -1,1 +1,16 @@
-
+{
+  "Case": "GMMK Tenkeyless (Barebones)",
+  "Keycaps": "Aura Keycaps V2",
+  "Switches": {
+    "Name": "Kailh Mechanical Keyboard Switches",
+    "Link": "https://www.pcgamingrace.com/products/kailh-mx-switches?variant=7152003416122",
+    "Version": "Pro - 120x Kailh Purples",
+    "Stats": {
+      "Type": "Tactile switches",
+      "Actuation Force": "50 grams",
+      "Actuation Point": "1.7 mm",
+      "Total Travel Distance": "3.6 mm",
+      "Compatibility": "Cherry MX keycap"
+    }
+  }
+}
